@@ -1,8 +1,8 @@
 # 🎵 Product Management Case Study: Growing YouTube Music to Match or Surpass Spotify's Market Share
 
-> **Author:** Senior Product Manager, YouTube Music  
-> **Date:** February 2026  
-> **Classification:** Strategic Initiative — Confidential
+> **Author:** Vishesh Prajapati  
+> **Date:** January 2026  
+> **Classification:** Strategic Initiative 
 
 ---
 
